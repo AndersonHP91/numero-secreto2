@@ -1,2 +1,3 @@
 # numero-secreto2
-Projeto clone do numero-secreto para realização de exercíciodo GitHub. 
+Projeto clone do numero-secreto para realização de exercíciodo GitHub.
+Inserir texto apenas para modificação.
